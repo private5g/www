@@ -1,7 +1,7 @@
-# private5g.pl
-[private5g.pl](https://private5g.pl)
 
-[Oferta sprzedaży domeny private5g.pl (private 5g)](https://premium.pl/private5g.pl)
+# [private5g.pl](https://private5g.pl)
+
++ [Oferta sprzedaży domeny private5g.pl (private 5g)](https://premium.pl/private5g.pl)
 
 5G was designed specifically to support the types of massive senor grids and industrial IoT (IIOT) applications we are currently witnessing the emergence of. 
 Cutting-edge manufacturing sites, distribution centers and numerous other campus environments can benefit from the deployment of a private 5G infrastructure supporting either 4G or 5G radio access networks.
