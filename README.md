@@ -62,3 +62,8 @@ CNFs are built using microservices methodologies, ensuring resiliency and granul
 
 CNAP is a flexible and ultra high performance software packet processing engine developed by Metaswitch to provide the foundation for virtualized network functions that handle data plane traffic such as the 5G User Plane Function (UPF).
 
+
+## More
+
+https://www.sierrawireless.com/iot-blog/what-are-private-lte-networks/
+
