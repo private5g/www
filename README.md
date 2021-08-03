@@ -67,3 +67,14 @@ CNAP is a flexible and ultra high performance software packet processing engine 
 
 https://www.sierrawireless.com/iot-blog/what-are-private-lte-networks/
 
+
+
+---
+
+## Tom Sapletta
++ [Kontakt na linkedin](https://www.linkedin.com/in/tom-sapletta-com/)
++ [Blog Tom Sapletta ' Embedded System Software & Hardware Developer, Germany Essen](https://tom.sapletta.pl/)
++ [Firma Softreck - Leadership Through Software Development](https://softreck.pl/)
+
+---
+
