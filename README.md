@@ -69,6 +69,26 @@ https://www.sierrawireless.com/iot-blog/what-are-private-lte-networks/
 
 
 
+# Dlaczego private5g?
+
+Bo to więcej niż przekaźnik transmisji danych... 
++ co jeśli private5g zastąpi internet w skali lokalnej a usługi teleinformatyczne będą dostarczały lokalne firmy w lokalnej chmurze z lokalnymi usługami i produktami dostarczanymi przez lokalnych przedsiębiorców i fabryki?
++ Płatność oczywiście też może odbywać się w kryptowalutach, nasuwa się pytanie, po co będzie potrzebny rząd centralny?
++ Czy także sieć globalna internet będzie tylko "niebezpiecznym" dodatkiem ?
+
+Zapraszam do dyskusji...
+
+## hashtags
+
++ localBusiness
++ localSociety
++ localPolice
++ localCourts
++ localArmy
++ 5gRadar
++ 5gMarketplace 
++ 5gManufactory
+
 ---
 
 ## Tom Sapletta
