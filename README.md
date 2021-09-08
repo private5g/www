@@ -90,6 +90,9 @@ Zapraszam do dyskusji...
 + 5gManufactory
 
 
+----
+About 5g and 6g
++ [Keynotes, IEEE International Symposium on Personal, Indoor and Mobile Radio Communications](https://pimrc2021.ieee-pimrc.org/program/keynotes/)
 
 ---
 
