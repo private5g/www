@@ -1,5 +1,5 @@
 
-# [private5g.pl](https://private5g.pl)
+# [private5g.pl](https://www.private5g.pl)
 
 + [Oferta sprzedaży domeny private5g.pl (private 5g)](https://premium.pl/private5g.pl)
 
