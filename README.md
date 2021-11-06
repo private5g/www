@@ -112,7 +112,7 @@ About 5g and 6g
 + [Jak zostać nierezydentem polskim? nierezydent.pl](https://www.nierezydent.pl/)
 
 
-
+---
 + [edit](https://github.com/private5g/www/edit/main/README.md)
 
 ```
