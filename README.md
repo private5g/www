@@ -96,6 +96,15 @@ About 5g and 6g
 
 ---
 
+## Oferty
+
++ [montaż anten](http://jpp.pl/)
++ [Roger Piqueras Jover](http://rogerpiquerasjover.net/)
++ [5G use cases: 31 examples that showcase what 5G is capable of - 5Gradar](https://www.5gradar.com/features/what-is-5g-these-use-cases-reveal-all)
++ [Top use cases for IoT-enabled by 5G](https://cloudblogs.microsoft.com/industry-blog/telecommunications/2020/11/02/top-use-cases-for-iot-enabled-by-5g/)
++ [ZaiNar - 5G Positioning](https://www.zainartech.com/5g.html)
+
+
 ## Tom Sapletta
 + [Kontakt na linkedin](https://www.linkedin.com/in/tom-sapletta-com/)
 + [Blog Tom Sapletta ' Embedded System Software & Hardware Developer, Germany Essen](https://tom.sapletta.pl/)
