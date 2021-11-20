@@ -78,6 +78,36 @@ Bo to więcej niż przekaźnik transmisji danych...
 
 Zapraszam do dyskusji...
 
+
+
+
+## Why 6g?
+
+[Nokia to Lead the EU’s 6G Project Hexa-X | Energy Industry Review](https://energyindustryreview.com/tech/nokia-to-lead-the-eus-6g-project-hexa-x/)
+
+Technology push
+
+The advent of key technologies such as Artificial Intelligence (AI), radio access beyond 100 GHz, network virtualisation and disaggregation concepts promise to add important abilities and design dimensions for wireless networks. A timely start of a technology and concept evaluation is required, even if some of these technologies are still on a low Technology Readiness Level (TRL), to understand the potential performance and impact on the overall system architecture. It is crucial to apply these new technologies to excel in new usage domains, and for making them indispensable parts of the future society.
+
+Society and industry pull
+
+Climate change, pandemics, digital divide, social inequalities, as well as distrust and threats to democracy, are some of the unprecedented societal challenges of our times. It is of utmost importance to mitigate these devastating challenges, while also creating opportunity for innovation-lead growth and employment. Wireless networks, being the central component of a digitalised society, must reflect such complex needs and opportunities and proactively provide sustainable digital solutions, to help address United Nations (UN) and European Sustainable Development Goals (SDGs). Digitalisation of industry sectors will continue to improve efficiency and resilience of the economy, promoting sustainable growth and creating meaningful jobs, supporting the transformation of Europe to a strong circular economy.
+
+In light of the above, the 6G flagship initiative Hexa-X has been established, by bringing together the key industry stakeholders, along with the full value-chain of future connectivity solutions ranging from network vendors, operators, verticals, and technology providers (e.g., software and Internet of Things (IoT) solutions), as well as the most prominent European research institutes and universities in this domain, streamlining expert forces and creating a critical mass to lead an integrated effort of research and development towards 6G.
+
+As a starting point, a 6G vision was jointly defined by the 25 participants of Hexa-X. Taking the above-mentioned motivation factors into account, this vision ties key technical enablers together as a whole through an x-enabler fabric (foundation/modular architecture for developing the vision) serving three worlds intertwined: a) a human world of intelligence and values; b) a digital world of information; c) and a physical world of processes. Real-time interactions will be vital to allow the worlds to integrate and meet future challenges. In this vision, six main research challenges were identified, which must be addressed to lay the technical foundation for the wireless systems of the B5G/6G era:
+
+    Connecting intelligence: 6G shall assume a crucial role and responsibility for large-scale deployments of intelligence in the wider society. 6G shall provide a framework to support (e.g., through advanced resource management), enhance (e.g., through supplementary data, functionality, insights, etc.), and ultimately enable real-time trustworthy control – transforming AI/Machine Learning (ML) technologies into a vital and trusted tool for significantly improved efficiency and service experience, with the human factor (“human in the loop”) integrated.
+    Network of networks: 6G shall aggregate multiple types of resources, including communication, data and AI processing that optimally connect at different scales, ranging from, e.g., in-body, intra-machine, indoor, data centres, to wide areas networks. Their integration results in an enormous digital ecosystem that grows more and more capable, intelligent, complex, and heterogeneous, and eventually creates a single network of networks. It will serve various needs, support different nodes, and means of connectivity, and handle mass-scale deployment and operation fulfilling a large diversity of requirements with utmost (cost) efficiency and flexibility, promoting business and economy growth, and addressing major societal challenges, like sustainable development, health, safety, and digital divide.
+    Sustainability: 6G shall transform networks into an energy-optimised digital infrastructure and will deeply revise the full resource chains of wireless networks for reduced global ICT environmental footprint. Its digital fabric shall also create the ability to sense and understand the state of the physical world in real-time and as such boost sustainability from the environmental, economic, and social perspectives – delivering effective and sustainable digitisation tools for global industry, society, and policy makers, bring UN SDGs to life and assist the implementation/operation of EU Green Deal, after the Covid-19 pandemic, towards a circular economy and a sustainable world.
+    Global service coverage: 6G shall put digital inclusion as one of the top priorities and encompass efficient and affordable solutions for global service coverage, connecting remote places, e.g., in rural areas, transport over oceans or vast land masses, enabling new services and businesses that will promote economic growth and reduce digital divide as well as improving safety and operation efficiency in those currently under-/uncovered areas.
+    Extreme experience: 6G shall provide extreme bitrates (access in the order of hundreds of Gbps to few Tbps), extremely low (imperceptible) latencies, seemingly infinite capacity, and -precision localisation and sensing, pushing the performance of networks a leap beyond what is possible with 5G – unlocking commercial values of new technologies at GHz-THz range, supporting extreme experience of services, e.g. fully immersive communication or remote control at scale, and accelerating the pace of digitisation.
+    Trustworthiness: 6G shall ensure the confidentiality and integrity of end-to-end communications, and guarantee data privacy, operation resilience and security, building trust of wireless networks as well as its enabled applications among consumers and enterprises – supporting and promoting European values of security, trust, and privacy protection as well as the technological EU sovereignty goal for fostering an open, trustworthy, and deeper democratic Europe in the digital age.
+
+To fully embrace such a vision, Hexa-X recognises the necessity to expand the fundamental network design paradigm from mainly performance-oriented to both performance- and value-oriented. Here value entails intangible yet important human and societal needs such as sustainability, trust, and inclusion. This will lead to a new class of evaluation criterion, i.e., Key Value Indicators (KVIs) that must be understood, developed, and adopted in the network design towards 6G. Hexa-X understands that the development towards 6G requires wide support and global efforts. It will strive for openness and collaboration among the European and global research community, standardisation bodies, and policy makers through, e.g., organisation of public workshops, preparation of joint whitepapers, and active participation in major events. An open, modular, and flexible framework – the x-enabler fabric – will be developed as a foundation, to integrate and weave together the technical enablers that address the above six research challenges, from both Hexa-X project itself and other 6G projects. The realization of a new network generation takes about 10 years, and to guide the Research and Innovation (R&I) globally towards 6G during this time, Hexa-X will lay the foundation for the network of 2030 and develop long-term strategical roadmaps based on research outputs obtained within Hexa-X project as well as from other 6G projects.
+
+
+
 ## hashtags
 
 + localBusiness
@@ -88,6 +118,9 @@ Zapraszam do dyskusji...
 + 5gRadar
 + 5gMarketplace 
 + 5gManufactory
+
+
+
 
 
 ----
