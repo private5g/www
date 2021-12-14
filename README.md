@@ -28,6 +28,7 @@ Powyższe parametry nie są możliwe do osiągnięcia przez aktualnie istniejąc
 Planowany przełomom, może nastąpić w 2023 roku, kiedy przedsiębiorcy będą mogli używać sieci 5G na licencjonowanej częstotliwości jako sieci prywatnej dla wybranego obszaru swojej firmy, na częstotliwościach 3400– 3800 MHz.
 
 
+Umożliwi to zastąpienie wifi oraz dotychczasowe połączenia kablowe jak Ethernet w miejscach gdzie sitotna jest mobilność, gdzie roboty poruszają się swobodnie na całej powierzchni.
 
 ## Solutions
 
