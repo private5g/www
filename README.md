@@ -4,6 +4,31 @@
 + [Oferta sprzedaży domeny private5g.pl (private 5g)](https://premium.pl/private5g.pl)
 
 
+Aktualne obietnice zastosowania technologii 5G:
+
+## eMBB - Enhanced Mobile Broadband
+
+rozszerzony mobilny szerokopasmowy dostęp do internetu
++ pobieranie danych do 20 Gbps;
+  
+  
+## URLLC - Ultra Reliable Low Latency Communications
+
+komunikacja o niskich opóźnieniach 
++ minimalne opóźnienia w interfejsie radiowym, poniżej 1 milisekundy o niezawodności 99%
+
+## Massive Machine Type Communications, mMTC
+
+masowa komunikacja pomiędzy maszynami
++ obsługa do 1 miliona urządzeń podłączonych do internetu, na powierzchni 1 kilometra kwadratowego
+
+
+Powyższe parametry nie są możliwe do osiągnięcia przez aktualnie istniejące sieci wielu operatorów, choćby z uwagi na częstotliwości, które nie pozwalają osiągnąć docelowych parametrów.
+
+Planowany przełomom, może nastąpić w 2023 roku, kiedy przedsiębiorcy będą mogli używać sieci 5G na licencjonowanej częstotliwości jako sieci prywatnej dla wybranego obszaru swojej firmy, na częstotliwościach 3400– 3800 MHz.
+
+
+
 ## Solutions
 
 The advanced capabilities, high speed, increased bandwidth and low latency of 5G will help inspire development of a wide variety of new use cases that include everything from massive numbers of IoT devices that use very few network resources, to smartphones with nearly infinite opportunities to use data, to more complex solutions such as AR/VR and mixed reality that will require massive computing capabilities on the edge of the network. 
