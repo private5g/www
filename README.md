@@ -4,6 +4,27 @@
 + [Oferta sprzedaży domeny private5g.pl (private 5g)](https://premium.pl/private5g.pl)
 
 
+
+5G nie jest taka jak zachwalają w reklamach, przypomina #SCAM, naciąganie na technologię, która nie spełnia oczekiwań i jest bardzo kosztowna. Można dużo o tym mówić, dlatego postaram się przygotować suche fakty:
+
+1. Mapy pokrycia 5G w Polsce i krajach Europy
+2. Transfery gwarantowane i obiecywane
+3. Koszt transmisji na podstawie ofert
+4. Alternatywne rozwiązania i porównanie kosztów
+
+Dodatkowo mogę praktycznie sprawdzić jak to działa w PL i DE, ale będę do tego potrzebował kilku tygodni, bo musiałbym zdobyć kilka routerów 5G i przetestować jak radzą sobie w różnych miejscach i warunkach.
+
+Temat 5G jest zakłamany i politycznie wykorzystywany.
+Dlatego jedyne inicjatywy jakie mają sens to prywatne 5G dla lokalnych przedsiębiorstw i społeczności.
+W Niemczech popularne są campus-netz. Kusi mnie by dołączyć do jednego z projektów w Berlinie, mógłbym wówczas pokazać to od środka, ale to dopiero za kilka miesięcy.
+
+Your Open-RAN 5G Campus Network
+https://www.cocus.com/en/5g/
+
+New 5G campus network offer by Deutsche Telekom
+https://www.telekom.com/en/media/media-information/archive/new-5g-standalone-campus-networks-645348
+
+
 Aktualne obietnice zastosowania technologii 5G:
 
 ## eMBB - Enhanced Mobile Broadband
