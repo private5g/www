@@ -34,6 +34,31 @@ Wszystko wygląda na ogromny technologiczny zastój.
 Brak dostępu do światłowodów być może jest polityką, która ma właśnie dać wyższe marże na 5G, które jest kosztowne również z uwagi na licencje.
 
 
+## rozzczarowanie
+Zastój technologiczny?
+Moim zdaniem, od miesięcy doświadczamy również lockdown-u technologicznego. Jakie rozwiązania przecierają dziś szlaki?
+O czym nie wiem?
+1. Blockchain ...
+- właśnie kupiłem marchewkę na straganie od rolnika za BTC
+(żart, pożywienie i rolnicy są w trendzie schodzącym)
+
+2. Wirtualna rzeczywistość?
+- jak to się ma do rosnących rzeczywistych cen?
+
+3. Niższe zużycie energii?
+- 2 lata temu CPU M1 od Apple był czymś nowym, co mamy dziś?
+
+4. Osprzęt do sieci LAN powyżej 1Gb
+- np. switch 2.5Gbps jest 10x droższy
+- routery 5g kilka razy droższe, mimo, że dostawcy nie gwarantują lepszych transferów
+
+5. Sieć 5G
+- taki rozpęd, obietnice i nadal korzystamy z LTE, które nawet może dostarczyć kilkaset Mbps, więc po co nam drogie 5g, pomijając przemysłowe i dedykowane rozwiązania, które stanowią promil potrzeb?
+
+6. Sieć światłowodowa
+- teroretycznie światło jest szybsze niż fala radiowa, ale napotyka trudności polityczne, być może nie potrzebujemy więcej niż 100Mbps w dostepie do (jeszcze) globalnej sieci?
+
+Być może to sygnał dla prywatnych (oligarchicznych) sieci, gdzie kastowość będzie też determinowała dostęp szybszych sieci i wyższych technologii?
 
 
 Aktualne obietnice zastosowania technologii 5G:
