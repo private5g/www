@@ -25,6 +25,17 @@ New 5G campus network offer by Deutsche Telekom
 https://www.telekom.com/en/media/media-information/archive/new-5g-standalone-campus-networks-645348
 
 
+
+Zrobiłem zgrubny research i niestety to nie wygląda dobrze z punktu widzenia okolicy poza większymi miastami, nie wiem czy jest sens bić pianę o 5G w kontekście konsumenckich zastosowań, ale mimo wszystko udokumentuję stan aktualny, abyśmy mogli porównać stan za kilka lat.
+Sprawdziłem jakie urządzenia mamy na rynku, jakie możliwości one dają i jakie koszty trzeba ponieść, jakie mamy alternatywy w kablowych rozwiązaniach.
+Przepaść między kablem jest coraz mniejsza, LTE potrafi dostarczyć nawet sygnał do 600MB/s, wiadomo, to nie jest porównywalne z 5G gdzie opóźnienie jest rzędu ms a nie nastu ms. Ale wirtualne spotkanie aktualne bazują na parametrach LTE i narzekamy raczej na niski transfer niż latency.
+Z drugiej strony VR to pieśń kolejnej dekady, adaptacja trwa.
+Wszystko wygląda na ogromny technologiczny zastój.
+Brak dostępu do światłowodów być może jest polityką, która ma właśnie dać wyższe marże na 5G, które jest kosztowne również z uwagi na licencje.
+
+
+
+
 Aktualne obietnice zastosowania technologii 5G:
 
 ## eMBB - Enhanced Mobile Broadband
